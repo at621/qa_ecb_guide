@@ -26,10 +26,6 @@ Welcome to the repository dedicated to analyzing the ECB Guide on Models! Here's
 
 Before diving in, make sure you've cloned this repository and followed the installation guidelines provided. Once set up, you can start using the tools to convert PDFs, run automated questions, or initiate your own queries.
 
-## Contributing
-
-Interested in making this tool even better? We welcome contributions! Please check out the 'Contributing' guidelines to get started.
-
 ## License
 
 This project is licensed under the MIT License - see the `LICENSE.md` file for details.
